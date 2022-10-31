@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![sevda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevdasadaf&theme=react_icons=true)
+
+![Sevda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevdasadaf&show_icons=true&bg_color=00000000)
