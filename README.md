@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Sevda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevdasadaf&show_icons=true&bg_color=rgb(32, 35, 42))
+![Sevda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevdasadaf&show_icons=true&bg_color=20232A)
